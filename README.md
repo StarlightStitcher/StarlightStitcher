@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="assets/starlightstitcher-banner.png"
+       width="100%"
+       alt="StarlightStitcher — Biomedical Engineering, Embedded Systems, and Medical Devices">
+</div>
+
+<br>
 # ✦ Hello, I'm Regina! 🌙
 
 ### Biomedical Engineering Student | Embedded Systems | Medical Devices
