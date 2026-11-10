@@ -5,7 +5,7 @@
 </div>
 
 <br>
-# ✦ Hello, I'm Regina! 🌙
+✦ Hello, I'm Regina! 🌙
 
 ### Biomedical Engineering Student | Embedded Systems | Medical Devices
 
